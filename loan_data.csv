@@ -1,0 +1,6 @@
+LoanAmount,ApplicantIncome,CoApplicantIncome,LoanTerm,CreditHistory,Loan_Status
+10000,5000,0,360,1,Y
+20000,6000,2000,360,1,Y
+30000,8000,4000,360,0,N
+40000,7000,3000,360,1,Y
+50000,10000,5000,360,1,Y
